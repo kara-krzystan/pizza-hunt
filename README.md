@@ -1,7 +1,7 @@
 # Module 18 Project: Pizza Hunt
 
 ## Description
-This week we learned about NoSQL databases by building a social media style recipe app for creating and sharing custom pizzas  
+This week we learned about NoSQL databases by building a social media style recipe application for creating and sharing custom pizzas  
 
 ## Overview of Concepts Learned
 * The difference between SQL and NoSQL  
